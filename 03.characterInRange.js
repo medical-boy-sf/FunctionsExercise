@@ -22,5 +22,4 @@ function solve(character1, character2) {
     }
 
     console.log(message);
-
 }
