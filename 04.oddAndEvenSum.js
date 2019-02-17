@@ -33,5 +33,3 @@ function solve(number) {
 
     console.log(`Odd sum = ${oddSum(number)}, Even sum = ${evenSum(number)}`);
 }
-
-solve(3495892137259234);
